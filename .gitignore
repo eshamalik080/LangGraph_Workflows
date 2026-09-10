@@ -1,0 +1,6 @@
+.env
+lgAgent/
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
